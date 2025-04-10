@@ -17,7 +17,11 @@ I’m a full-stack developer fueled by a passion for crafting digital solutions 
 #### 💻 Tools in My Kit  
 - VS Code  
 - Git & GitHub  
-- Windows / Manjaro Linux
+- Windows / Manjaro Linux  
+
+#### 🌱 Currently Exploring  
+- Next.js – Building faster, smarter web apps  
+- Docker – Containerizing everything for smoother workflows  
 
 ---
 
@@ -44,4 +48,6 @@ I’m a full-stack developer fueled by a passion for crafting digital solutions 
 ---
 
 ### My GitHub Journey  
-![Sandratra’s Stats](https://github-readme-stats.vercel.app/api?username=sandratraniaina&show_icons=true&theme=dracula)  
+<div align="center">
+![Sandratra’s Stats](https://github-readme-stats.vercel.app/api?username=sandratraniaina&show_icons=true&theme=dracula)
+</div>
