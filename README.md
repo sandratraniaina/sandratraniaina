@@ -4,24 +4,9 @@ I’m a full-stack developer fueled by a passion for crafting digital solutions 
 ---
 
 ### What I’m About  
-#### 🚀 Languages I Speak  
-- JavaScript (JS/TS)  
-- Java  
-- SQL (MySQL, PostgreSQL)  
-
-#### 🛠 Frameworks & Libraries I Love  
-- React  
-- Node.js + Express.js  
-- Spring Boot  
-
-#### 💻 Tools in My Kit  
-- VS Code  
-- Git & GitHub  
-- Windows / Manjaro Linux  
-
-#### 🌱 Currently Exploring  
-- Next.js – Building faster, smarter web apps  
-- Docker – Containerizing everything for smoother workflows  
+- 🚀 Tech Stack: JavaScript (JS/TS), Java, React, Node.js + Express.js, Spring Boot, SQL (MySQL, PostgreSQL)  
+- 💻 Tools: VS Code, Git & GitHub, Windows / Manjaro Linux  
+- 🌱 Exploring: Next.js, Docker  
 
 ---
 
