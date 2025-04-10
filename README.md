@@ -34,3 +34,7 @@ I’m a full-stack developer fueled by a passion for crafting digital solutions 
 
 ### My GitHub Journey
 ![Sandratra’s Stats](https://github-readme-stats.vercel.app/api?username=sandratraniaina&show_icons=true&theme=dracula)
+
+<div align="center">
+<i>Driven by Code, Inspired by Growth! 🌱</i>
+</div>
