@@ -41,9 +41,9 @@ I’m a full-stack developer fueled by a passion for crafting digital solutions 
 ---
 
 ### Let’s Connect!  
-- [Facebook](https://www.facebook.com/sandratra.rafa)  
-- [LinkedIn](https://www.linkedin.com/in/sandratra-niaina/)  
 - 📧 [sandratrarafa@gmail.com](mailto:sandratrarafa@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sandratra-niaina/)  
+- 📘 [Facebook](https://www.facebook.com/sandratra.rafa)  
 
 ---
 
